@@ -4,7 +4,7 @@
 
 	<groupId>br.ufsc.esus</groupId>
 	<artifactId>teste-inicial</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4</version>
 	<packaging>jar</packaging>
 
 	<name>teste-inicial</name>
